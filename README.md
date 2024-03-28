@@ -11,6 +11,8 @@
 
 **Variedad de Idiomas y Voces**: Elige entre una amplia selección de idiomas y voces para adaptar la experiencia de escucha a tus preferencias y necesidades.## Tecnologías Stack
 
+## Tecnologías Stack
+
 **Client:** HTML5, CSS3, JavaScript.
 
 ## Licencia
